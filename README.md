@@ -1,1 +1,1 @@
-# gra-statki-konsolowa-cs
+# gra-statki-konsolowa
